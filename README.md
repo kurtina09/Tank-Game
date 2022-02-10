@@ -4,7 +4,6 @@
 | Student Information |                            |
 |:-------------------:|--------------------------- |
 |  Student Name       |  Edel Jhon Cenario         |
-|  Student Email      |  ecenario@mail.sfsu.edu    |
 
 ## src Folder Purpose 
 src folder is to be used to store source code only.
